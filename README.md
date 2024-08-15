@@ -1,6 +1,5 @@
 # Railway_Ticket_Booking
 
-**Overview :**
 This C++ program simulates a basic railway ticket management system that allows users (both staff members and passengers) to book, view, and cancel railway tickets. The system provides options for users to select their starting and ending destinations, choose the type of ticket, and manage their bookings. The program also applies staff concessions to ticket prices.
 
 
